@@ -1,9 +1,11 @@
 # Pls Donate Community Server Guidelines & Rules
 
+# 0. Follow Roblox's [Terms Of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) and [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards)
+
 # 1. Follow Discord's [Terms Of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)
 
-> [!WARNING]
-> Some of our rules are based on Discord's [Terms Of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) but you must follow everything listed in Discord's [Terms Of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
+> [!CAUTION]
+> You must follow everything listed in Discord's [Terms Of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
 
 ### 1.1 You must be 13 years or older
 By using Discord, you confirm that you're at lest 13 years old and meet [the minimum age required by the laws in your country](https://support.discord.com/hc/en-us/articles/360040724612).
@@ -13,6 +15,9 @@ Such things as selling or purchasing an account or server, participating in frau
 
 ### 1.3 Do not promote, coordinate, or engage in harassment
 Discord is a platform where everyone can find a place to belong, and harassment prevents users from building healthy communities. We do not allow harassing behavior such as sustained bullying, ban or block evasion, doxxing, or coordinating server joins for the purposes of harassing server members (such as server raiding).
+
+### 1.4 Recording VCs is not tolerated
+We will not accept any cases that you make against someone due to a VC recording. Discord abides by California state law, and so do you under their TOS. We ask you to not record any VC conversations.
 
 # 2. Respect Others
 
@@ -52,13 +57,68 @@ Joking about this will have the same punishment.
 
 **Doing this is just disgusting and inhumane!**
 
+### 3.6 Do not use excessive profanity.
+The use of profanity can be offensive and disruptive to other members. Therefore, members are asked to refrain from using profanity, including but not limited to derogatory or obscene language, vulgarities, or sexually explicit language.
+
 > [!TIP]
 > Credit to [NTTS Rules Page](https://notexttospeech.com/rules) for providing these topics
 
-# 4 Advertising
+# 4. Advertising
 
 ### 4.1 In-server advertising
-We do not any kind of advertising outside of [👀・self-promo](https://discord.com/channels/1053665144644841482/1069667296882200666)
+We do not allow any kind of advertising outside of [👀・self-promo](https://discord.com/channels/1053665144644841482/1069667296882200666)
 
 ### 4.2 DM advertising
-Randomly sending any kind of advertising in DM without the user asking or you knowing them good (friended on Discord for example) is not permitted. If large scale, this is forbidden by Discord TOS/Guidelines.
+Randomly sending any kind of advertising in DM without the user asking for it or you knowing them good (friended on Discord for example) is not permitted. If you do this on a large scale, this is forbidden by Discord TOS/Guidelines.
+
+###
+
+# 5. Do not be annoying
+
+### 5.1 Do not spam
+Any kind of spamming is not tolerated, this includes but is not limited to fast message spam, new line spam, reaction spam, text wall.
+
+### 5.2 Do not beg/ask for robux
+Asking for robux in any way is not permitted, you may only ask for robux in [🥺・beg-4-robux](https://discord.com/channels/1053665144644841482/1069665959524175872)
+
+### 5.3 Do not annoy members on purpose
+This is a platform to talk with people, so do not use it to annoy others and instead have a great time.
+
+If you are not annoying members on purpose, but something is annoying them, and they ask to stop, consider stopping
+
+# 6. Respect Us
+
+### 6.1 Do not argue with staff
+Staff members are responsible for maintaining order, enforcing rules, and ensuring the overall well-being of the Discord server. Therefore, it is important that all members of the server comply with their instructions and decisions.
+
+> [!IMPORTANT]
+> If you feel like your being moderated falsely, contact a Head Moderator, Admin, Community Manager or Owner in DM
+
+### 6.2 Do not create random tickets
+It's very simple... 
+* Only create Support tickets if you didn't find the answer to your question in [🤔・faq-info](https://discord.com/channels/1053665144644841482/1193473066106372238)
+* Only create a Prize Claiming ticket if you won a giveaway, guess the number or competition
+* Only create a Business if you want to become event host, host a sponsored giveaway, become content creator, partner
+* Only create a report ticket if you are reporting someone
+
+### 6.3 Do not evade moderation actions
+Bypassing moderations on your action will result in a higher moderation than you originally received
+
+**You may also not use an alternative account without permission from the owner**
+
+### 6.4 Keep discussions relevant to the channel topic.
+Use the channels for what they are made, if you have a question about a channel then check the pinned messages and/or the channel topic (At the top next to the name)
+
+### 6.5 Do not host giveaways
+We do not permit users to host giveaways without being in collaboration with the server. You may give users items for free, but not in a type of giveaway and/or with requirements. If you want to host a giveaway, check our [sponsored giveaways info](https://discord.com/channels/1053665144644841482/1161004088771756234)
+
+# 7. Keep your Discord profile appropriate
+
+### 7.1 No inappropriate content
+Your profile may not include any content banned by other rules. To give users more freedom in their profile, we allow...
+* Excessive profanity
+* Advertising
+ * You may not hoist your username for advertising purposes
+
+### 7.2 No impersonation
+Impersonating a celebrity, known user in the community or staff is not allowed. You should create a unique profile.
