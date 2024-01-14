@@ -22,6 +22,9 @@ Refrain from arguing with others. Having different opinions about something in a
 ### 2.2 Do not be discriminating, send death threats, or engage in hate speech
 Joking about anything of these things will not let bypass this rule, saying something as a joke will not let you bypass the rules.
 
+### 2.3 Do not share personal information
+Sharing personal information is dangerous, therefore you should refrain from doing so. You may NEVER share ANY KIND of personal information about someone else. You may only share your own real name or email address.
+
 # 3. No NSFW Content / Gore / Illegal Goods / E-dating
 
 ### 3.1 Do not talk about Sexual Activities
@@ -51,3 +54,11 @@ Joking about this will have the same punishment.
 
 > [!TIP]
 > Credit to [NTTS Rules Page](https://notexttospeech.com/rules) for providing these topics
+
+# 4 Advertising
+
+### 4.1 In-server advertising
+We do not any kind of advertising outside of [👀・self-promo](https://discord.com/channels/1053665144644841482/1069667296882200666)
+
+### 4.2 DM advertising
+Randomly sending any kind of advertising in DM without the user asking or you knowing them good (friended on Discord for example) is not permitted. If large scale, this is forbidden by Discord TOS/Guidelines.
