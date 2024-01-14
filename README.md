@@ -122,3 +122,11 @@ Your profile may not include any content banned by other rules. To give users mo
 
 ### 7.2 No impersonation
 Impersonating a celebrity, known user in the community or staff is not allowed. You should create a unique profile.
+
+# 8. Respect the rules
+
+### 8.1 Do not bypass automod
+Attempting to bypass or bypassing automod will result in a **high punishment**
+
+### 8.2 Use common sense
+We are unable to list everything your not allowed to do. You should use common sense at all time, you should know what's right and wrong. And always think twice beforing doing something.
