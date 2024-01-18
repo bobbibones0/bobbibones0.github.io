@@ -110,7 +110,7 @@ Bypassing moderations on your action will result in a higher moderation than you
 Use the channels for what they are made, if you have a question about a channel then check the pinned messages and/or the channel topic (At the top next to the name)
 
 ### 6.5 Do not host giveaways
-We do not permit users to host giveaways without being in collaboration with the server. You may give users items for free, but not in a type of giveaway and/or with requirements. If you want to host a giveaway, check our [sponsored giveaways info](https://discord.com/channels/1053665144644841482/1161004088771756234)
+We do not permit users to host giveaways without being in collaboration with the server. You may give users items for free, but not in a type of giveaway and/or with requirements. Suchg things as "DM me for robux", "Giving away robux, DM me" or "First to DM me gets robux" are not allowed, you may ask "Who wants robux" but should NEVER take it to DM. are If you want to host a giveaway, check our [sponsored giveaways info](https://discord.com/channels/1053665144644841482/1161004088771756234)
 
 # 7. Keep your Discord profile appropriate
 
