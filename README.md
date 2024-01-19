@@ -130,3 +130,6 @@ Attempting to bypass or bypassing automod will result in a **high punishment**
 
 ### 8.2 Use common sense
 We are unable to list everything your not allowed to do. You should use common sense at all time, you should know what's right and wrong. And always think twice beforing doing something.
+
+> [!TIP]
+> While being a part of the Discord server "Pls Donate Community", you agree with these rules and any updates to it at all time. We may change our rules without announcing, but we may announce big updates.
