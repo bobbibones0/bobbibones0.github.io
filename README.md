@@ -28,7 +28,7 @@ Refrain from arguing with others. Having different opinions about something in a
 Joking about anything of these things will not let bypass this rule, saying something as a joke will not let you bypass the rules.
 
 ### 2.3 Do not share personal information
-Sharing personal information is dangerous, therefore you should refrain from doing so. You may NEVER share ANY KIND of personal information about someone else. You may only share your own real name or email address.
+Sharing personal information is dangerous, therefore you should refrain from doing so. You may NEVER share ANY KIND of personal information about someone else including but not limited to: Age, full birthdate, place of birth, personal address, geolocation, school, phone number, email address, first name, first initial and last name, full name, passport number, driver's license number, IP address, login ID details, images or video footage containing means in which to identify, personal social media, social security number, credit/bank card numbers, biometric data, other identification numbers linked to one's identity and personal information, or any other information that can be traced to one individual. You may only share your own age, birthdate, geolocation, email address and first name, but know this can be dangerous.
 
 # 3. No NSFW Content / Gore / Illegal Goods / E-dating
 
